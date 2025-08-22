@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Sofascore - Dashboard Futebol</title>
-    <link rel="stylesheet" href="Public/assets/style.css">
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <div class="container">
